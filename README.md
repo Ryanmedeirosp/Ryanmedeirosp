@@ -6,3 +6,5 @@ Olá, sou Ryan
 
 🧑‍🎓 Cursando ADM / Técnico de informática para internet web
 
+👾 Experiência 
+ - Diretoria de Manutenção de vias públicas (ADMINISTRATIVO)
