@@ -23,9 +23,9 @@ Bem-vindo ao meu repositório GitHub! Meu nome é Ryan Medeiros Porciúncula, te
 
 Aqui você encontrará uma variedade de projetos que estou desenvolvendo e estudando. Estes projetos são oportunidades para aplicar o que aprendi e explorar novas tecnologias. Alguns exemplos incluem:
 
-- **[Projeto de Site de Investimento](link-para-o-repositorio):** Uma aplicação front-end para um site de investimento com áreas de login, estudos e ações.
-- **[Projeto CRUD Backend](link-para-o-repositorio):** Uma API para operações de criar, ler, atualizar e excluir dados.
-- **[Portfolio Pessoal](link-para-o-repositorio):** Um site pessoal para apresentar minhas habilidades e projetos.
+- **[Projeto de Site de Investimento]([link-para-o-repositorio](https://github.com/Ryanmedeirosp/Projeto-Integrador)):** Uma aplicação front-end para um site de investimento com áreas de login, estudos e ações.
+- **[Projeto CRUD Backend](https://github.com/juneonju/Back-End-Projeto-Integrador):** Uma API para operações de criar, ler, atualizar e excluir dados.
+- **[Portfolio Pessoal](https://github.com/Ryanmedeirosp/rocketseat):** Um site pessoal para apresentar minhas habilidades e projetos.
 
 ## Como Contribuir
 
