@@ -1,7 +1,4 @@
-Olá, sou Ryan
-
 👨‍💻 Estudante 🏠 Brasileiro 🌍 Maceió-AL
-
 
 ## Ryan Medeiros Porciúncula - Portfólio de Desenvolvimento Web
 
@@ -36,9 +33,9 @@ Sinta-se à vontade para explorar meus projetos, deixar feedback e contribuir co
 
 ## Contato
 
-- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Twitter:** [@seu-twitter](https://twitter.com/seu-twitter)
+- **Email:** (ryan.mporciuncula@gmail.com)
+- **LinkedIn:**([https://linkedin.com/in/seu-perfi](https://www.linkedin.com/in/ryan-medeiros-porciuncula-796b92246/)
+
 
 Agradeço por visitar meu repositório! Estou animado para crescer como desenvolvedor e contribuir para a comunidade de desenvolvimento web. 
 
