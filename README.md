@@ -23,6 +23,8 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
   <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="left" alt="knex" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/knexjs/knexjs-original.svg" />
+  <img align="left" alt="prisma" width="30px" style="padding-right:10px;" src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg" />
+ 
 
 </p>
 
