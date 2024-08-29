@@ -36,7 +36,7 @@ Here you will find a variety of projects that I am developing and studying. Thes
 
 - **[Investment Site Project](https://github.com/Ryanmedeirosp/Projeto-Integrador):** A front-end application for an investment site with login areas, studies, and stocks.
 - **[CRUD Backend Project](https://github.com/juneonju/Back-End-Projeto-Integrador):** An API for creating, reading, updating, and deleting data.
-- - **[API SOLID with NodeJs/typeScript](https://github.com/Ryanmedeirosp/api-solid-node-com-ts):** An API FindFriend
+- **[API SOLID with NodeJs/typeScript](https://github.com/Ryanmedeirosp/api-solid-node-com-ts):** An API FindFriend
 - **[Personal Portfolio](https://ryanmedeirosp.github.io/rocketseat):** A personal site to showcase my skills and projects.
 
 ## How to Contribute
