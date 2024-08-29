@@ -45,7 +45,7 @@ Feel free to explore my projects, provide feedback, and contribute suggestions. 
 ## Contact
 
 <a href="https://www.linkedin.com/in/ryan-medeiros-porciuncula-796b92246/"><img src="https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ryan.mporciuncula@gmail.com"><img src="https://img.shields.io/badge/-gabrielmend3s2519@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white" alt="Gmail"></a>
+<a href="mailto:ryan.mporciuncula@gmail.com"><img src="https://img.shields.io/badge/-ryan.mporciuncula@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white" alt="Gmail"></a>
 
 
 Thank you for visiting my repository! I am excited to grow as a developer and contribute to the web development community.
