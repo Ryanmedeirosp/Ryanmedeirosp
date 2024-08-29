@@ -22,6 +22,8 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
   <img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="left" alt="knex" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/knexjs/knexjs-original.svg" />
+
 </p>
 
 </br>
@@ -36,7 +38,7 @@ Here you will find a variety of projects that I am developing and studying. Thes
 
 - **[Investment Site Project](https://github.com/Ryanmedeirosp/Projeto-Integrador):** A front-end application for an investment site with login areas, studies, and stocks.
 - **[CRUD Backend Project](https://github.com/juneonju/Back-End-Projeto-Integrador):** An API for creating, reading, updating, and deleting data.
-- **[API SOLID with NodeJs/typeScript](https://github.com/Ryanmedeirosp/api-solid-node-com-ts):** An API FindFriend
+- **[Find Friend API](https://github.com/Ryanmedeirosp/FindFriendAPI):** An API using TypeScript, docker, postgresql and Prisma(ORM)
 - **[Personal Portfolio](https://ryanmedeirosp.github.io/PersonalSite):** A personal site to showcase my skills and projects.
 
 ## How to Contribute
