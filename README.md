@@ -15,7 +15,7 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
@@ -28,30 +28,33 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
 </br>
 </br>
 
+---
 
-## Projetos ##
+## Projects
 
-Aqui você encontrará uma variedade de projetos que estou desenvolvendo e estudando. Estes projetos são oportunidades para aplicar o que aprendi e explorar novas tecnologias. Alguns exemplos incluem:
+Here you will find a variety of projects that I am developing and studying. These projects are opportunities to apply what I have learned and explore new technologies. Some examples include:
 
-- **[Projeto de Site de Investimento](https://github.com/Ryanmedeirosp/Projeto-Integrador):** Uma aplicação front-end para um site de investimento com áreas de login, estudos e ações.
-- **[Projeto CRUD Backend](https://github.com/juneonju/Back-End-Projeto-Integrador):** Uma API para operações de criar, ler, atualizar e excluir dados.
-- **[Portfolio Pessoal](https://github.com/Ryanmedeirosp/rocketseat):** Um site pessoal para apresentar minhas habilidades e projetos.
+- **[Investment Site Project](https://github.com/Ryanmedeirosp/Projeto-Integrador):** A front-end application for an investment site with login areas, studies, and stocks.
+- **[CRUD Backend Project](https://github.com/juneonju/Back-End-Projeto-Integrador):** An API for creating, reading, updating, and deleting data.
+- **[Personal Portfolio](https://github.com/Ryanmedeirosp/rocketseat):** A personal site to showcase my skills and projects.
 
-## Como Contribuir
+## How to Contribute
 
-Sinta-se à vontade para explorar meus projetos, deixar feedback e contribuir com sugestões. Estou aberto a colaborações e aprendizados adicionais.
+Feel free to explore my projects, provide feedback, and contribute suggestions. I am open to collaborations and additional learning opportunities.
 
-## Contato
+## Contact
 
-- **Email:** (ryan.mporciuncula@gmail.com)
-- **LinkedIn:**([https://linkedin.com/in/seu-perfi](https://www.linkedin.com/in/ryan-medeiros-porciuncula-796b92246/)
+<a href="https://www.linkedin.com/in/ryan-medeiros-porciuncula-796b92246/"><img src="https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ryan.mporciuncula@gmail.com"><img src="https://img.shields.io/badge/-gabrielmend3s2519@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white" alt="Gmail"></a>
 
 
-Agradeço por visitar meu repositório! Estou animado para crescer como desenvolvedor e contribuir para a comunidade de desenvolvimento web. 
+Thank you for visiting my repository! I am excited to grow as a developer and contribute to the web development community.
 
 ---
 
-*Este README será atualizado regularmente à medida que eu avançar em meus estudos e projetos. Fique à vontade para acompanhar meu progresso!*
+*This README will be updated regularly as I make progress in my studies and projects. Feel free to follow my progress!*
+
+
 
 
 
