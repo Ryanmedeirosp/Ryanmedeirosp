@@ -29,7 +29,7 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
 
 
 
-## Projetos
+## Projetos ##
 
 Aqui você encontrará uma variedade de projetos que estou desenvolvendo e estudando. Estes projetos são oportunidades para aplicar o que aprendi e explorar novas tecnologias. Alguns exemplos incluem:
 
