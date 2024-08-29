@@ -30,7 +30,6 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
 
 </br>
 </br>
-</br>
 
 ---
 
@@ -43,7 +42,6 @@ Here you will find a variety of projects that I am developing and studying. Thes
 - **[Find Friend API](https://github.com/Ryanmedeirosp/FindFriendAPI):** An API using TypeScript, docker, postgresql and Prisma(ORM).
 - **[Personal Portfolio](https://ryanmedeirosp.github.io/PersonalSite):** A personal site to showcase my skills and projects.
 - **[Daily Diet App]( https://github.com/Ryanmedeirosp/Diet-Daily-app):** An API using TypeScript, sqlite, knex(querybuilder).
--
 
 ## How to Contribute
 
