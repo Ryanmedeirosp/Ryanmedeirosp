@@ -1,23 +1,24 @@
-👨‍💻 Estudante 🏠 Brasileiro 🌍 Maceió-AL
+👨‍💻 Student 🏠 Brazilian 🌍 Maceió-AL
 
-## Ryan Medeiros Porciúncula - Portfólio de Desenvolvimento Web
+## Ryan Medeiros Porciúncula -  Web Development Portfolio
 
-Bem-vindo ao meu repositório GitHub! Meu nome é Ryan Medeiros Porciúncula, tenho 20 anos e sou estudante de desenvolvimento web. Estou dedicado ao aprendizado e aprimoramento das minhas habilidades em tecnologias web, e este repositório é onde compartilho meus projetos e progresso.
+**`Web Development Student`**
 
-## Sobre Mim
+Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20 years old, and I’m a web development student. I’m dedicated to learning and enhancing my skills in web technologies, and this repository is where I share my projects and progress.
 
-- **Nome:** Ryan Medeiros Porciúncula
-- **Idade:** 20 anos
-- **Localização:** Maceió, Brasil
-- **Objetivo:** Tornar-me um desenvolvedor web proficientemente habilidoso
+### ✨ Languages and Tools
 
-## Tecnologias que Estou Aprendendo
+<p align="center">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+</p>
 
-- **HTML:** Estruturação de páginas web e semântica.
-- **CSS:** Estilização e design responsivo para criar interfaces atraentes e funcionais.
-- **JavaScript:** Programação interativa e lógica para melhorar a experiência do usuário e criar aplicações dinâmicas.
-- **Node.js:** Desenvolvimento de back-end para criar servidores e APIs eficientes.
-- **Java:** Aprendizado de programação orientada a objetos e desenvolvimento de aplicações robustas.
 
 ## Projetos
 
