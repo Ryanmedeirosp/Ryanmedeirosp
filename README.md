@@ -36,6 +36,7 @@ Welcome to my GitHub repository! My name is Ryan Medeiros Porciúncula, I’m 20
 Here you will find a variety of projects that I am developing and studying. These projects are opportunities to apply what I have learned and explore new technologies. Some examples include:
 
 - **[Investment Site Project](https://github.com/Ryanmedeirosp/Projeto-Integrador):** A front-end application for an investment site with login areas, studies, and stocks.
+- **[Responsive DashBoard](https://ryanmedeirosp.github.io/Projeto-Casal/):** A front-end application with metrics, charts and tables. 
 - **[CRUD Backend Project](https://github.com/juneonju/Back-End-Projeto-Integrador):** An API for creating, reading, updating, and deleting data.
 - **[Find Friend API](https://github.com/Ryanmedeirosp/FindFriendAPI):** An API using TypeScript, docker, postgresql and Prisma(ORM).
 - **[Personal Portfolio](https://ryanmedeirosp.github.io/PersonalSite):** A personal site to showcase my skills and projects.
