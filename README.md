@@ -38,7 +38,7 @@ Here you will find a variety of projects that I am developing and studying. Thes
 - **[Investment Site Project](https://github.com/Ryanmedeirosp/Projeto-Integrador):** A front-end application for an investment site with login areas, studies, and stocks.
 - **[Responsive DashBoard](https://ryanmedeirosp.github.io/Projeto-Casal/):** A front-end application with metrics, charts and tables. 
 - **[CRUD Backend Project](https://github.com/juneonju/Back-End-Projeto-Integrador):** An API for creating, reading, updating, and deleting data.
-- **[Find Friend API](https://github.com/Ryanmedeirosp/FindFriendAPI):** An API using TypeScript, docker, postgresql and Prisma(ORM).
+- **[Gym Pass API](https://github.com/Ryanmedeirosp/FindFriendAPI):** An API using TypeScript, docker, postgresql and Prisma(ORM).
 - **[Personal Portfolio](https://ryanmedeirosp.github.io/PersonalSite):** A personal site to showcase my skills and projects.
 - **[Daily Diet App]( https://github.com/Ryanmedeirosp/Diet-Daily-app):** An API using TypeScript, sqlite, knex(querybuilder).
 
