@@ -1,6 +1,6 @@
 👨‍💻 Student 🏠 Brazilian 🌍 Maceió-AL
 
-## Ryan Medeiros Porciúncula -  Web Development Portfolio
+## Ryan Medeiros Porciúncula -  Web Development, DevOps Portfolio
 
 **`Web Development | DevOps Intern | `**
 
