@@ -57,10 +57,3 @@ Thank you for visiting my repository! I am excited to grow as a developer and co
 ---
 
 *This README will be updated regularly as I make progress in my studies and projects. Feel free to follow my progress!*
-
-
-
-
-
-
-
