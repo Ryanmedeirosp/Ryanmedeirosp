@@ -1,9 +1,12 @@
 👨‍💻 Computer Engineering Student
+
 🎓 Bachelor's Degree in Business Administration
+
 💻 Web Development Technician (SENAI)
+
 🏠 Brazilian🌍 Maceió - AL
 
-#Ryan Medeiros Porciúncula
+###Ryan Medeiros Porciúncula
 
 Computer Engineering Student | Web Developer | Technology & Management
 
