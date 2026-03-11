@@ -18,6 +18,8 @@ My goal is to combine technical knowledge with management skills to contribute t
 
 I have also completed a software development internship, where I had the opportunity to work on real-world projects and strengthen my practical programming skills.
 
+Background in business administration and entrepreneurship, with experience managing a company in the healthcare sector and working with public procurement.
+
 This GitHub is where I share my projects, studies and experiments as I continue evolving as a developer.
 
 ---
