@@ -1,17 +1,16 @@
-👨‍💻 Computer Engineering Student  
-🎓 Bachelor's Degree in Business Administration  
-🏠 Brazilian  
-🌍 Maceió - AL  
+👨‍💻 Computer Engineering Student🎓 Bachelor's Degree in Business Administration💻 Web Development Technician (SENAI)🏠 Brazilian🌍 Maceió - AL
 
-# Ryan Medeiros Porciúncula
+#Ryan Medeiros Porciúncula
 
 Computer Engineering Student | Web Developer | Technology & Management
 
 Hello! I'm Ryan Medeiros Porciúncula, a Brazilian developer passionate about technology and innovation.
 
-I hold a Bachelor’s degree in Business Administration and I will soon begin my Computer Engineering degree at UFPE (Federal University of Pernambuco). My goal is to combine technical knowledge with management skills to contribute to the development and leadership of technology projects.
+I hold a Bachelor’s degree in Business Administration and a Technical degree in Web Development from SENAI. Soon I will begin my Computer Engineering degree at UFPE (Federal University of Pernambuco).
 
-I have already completed a software development internship, where I had the opportunity to work on real-world projects and improve my practical development skills.
+My goal is to combine technical knowledge with management skills to contribute to the development, organization and leadership of technology projects.
+
+I have also completed a software development internship, where I had the opportunity to work on real-world projects and strengthen my practical programming skills.
 
 This GitHub is where I share my projects, studies and experiments as I continue evolving as a developer.
 
