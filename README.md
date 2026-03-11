@@ -76,15 +76,6 @@ I aim to:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ryanmedeirosp&show_icons=true&theme=default"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanmedeirosp&layout=compact"/>
-</p>
-
----
-
 # 📬 Contact
 
 <a href="https://www.linkedin.com/in/ryan-medeiros-porciuncula-796b92246/">
