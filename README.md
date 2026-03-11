@@ -1,6 +1,6 @@
 👨‍💻 Computer Engineering Student  
 🏠 Brazilian  
-🌍 Maceió - AL  
+🌍 Maceió - AL / Recife - PE 
 
 # Ryan Medeiros Porciúncula
 
